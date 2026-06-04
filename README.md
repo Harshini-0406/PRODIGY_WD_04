@@ -12,7 +12,7 @@ The Personal Portfolio Website is a modern, responsive, and interactive web appl
 
 ## About Me
 
-I am **Harshini T**, an MCA student at **Sri Shakthi Institute of Engineering and Technology**.
+I am **Harshini T**, an BE student at **Sri Shakthi Institute of Engineering and Technology**.
 
 I am passionate about web development and enjoy creating modern, responsive, and user-friendly web applications. Alongside my technical interests, I am passionate about dance, which helps me express creativity, build confidence, and maintain a balanced lifestyle.
 
@@ -129,7 +129,7 @@ Through this project, I learned:
 
 ### Harshini T
 
-MCA Student
+BE Student
 
 Sri Shakthi Institute of Engineering and Technology
 
